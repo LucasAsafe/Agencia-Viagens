@@ -1,0 +1,6 @@
+C:\Users\aluno\Desktop\Travels_Agency\Travels_Agency\bin\Debug\Travels_Agency.exe.config
+C:\Users\aluno\Desktop\Travels_Agency\Travels_Agency\obj\Debug\Travels_Agency.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\Travels_Agency\Travels_Agency\bin\Debug\Travels_Agency.exe
+C:\Users\aluno\Desktop\Travels_Agency\Travels_Agency\bin\Debug\Travels_Agency.pdb
+C:\Users\aluno\Desktop\Travels_Agency\Travels_Agency\obj\Debug\Travels_Agency.exe
+C:\Users\aluno\Desktop\Travels_Agency\Travels_Agency\obj\Debug\Travels_Agency.pdb
